@@ -1,2 +1,2 @@
 rootProject.name = "java"
-include("spring")
+include("spring", "java")
